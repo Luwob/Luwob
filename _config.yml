@@ -18,7 +18,7 @@ flickr_username: phenxxx
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: jekyll-theme-slate
+theme: "minima"
 
 rss: rss
 
